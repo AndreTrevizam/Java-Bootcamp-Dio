@@ -1,3 +1,5 @@
+package Sintaxe;
+
 public class Operadores {
     public static void main(String[] args) {
 //        String nome = "André " + "Trevizam";

@@ -1,3 +1,5 @@
+package Sintaxe;
+
 public class OperadoresLogicos {
     public static void main(String[] args) {
         int lado1 = 3;

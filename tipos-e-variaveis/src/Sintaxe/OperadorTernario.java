@@ -1,3 +1,5 @@
+package Sintaxe;
+
 public class OperadorTernario {
     public static void main(String[] args) {
         int a, b;

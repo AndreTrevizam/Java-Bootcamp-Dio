@@ -1,3 +1,5 @@
+package Sintaxe;
+
 public class OperadoresRelacionais {
     public static void main(String[] args) {
         int num1 = 5;
